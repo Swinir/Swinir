@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swinir
 - 👀 I’m interested in Aviation and Flight Sim.
-- 🌱 I’m currently learning C and Rust
+- 🌱 I’m currently learning C, Rust and Java
 
 | Think big and you will fly high 🛫 |
 
